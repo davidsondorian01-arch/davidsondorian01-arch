@@ -5,6 +5,8 @@
 - <b>Active Directory Homelab (AlgoExpert)</b>
 <h2>📺 Certifications</h2>
 -CompTIA A+//www.youtube.com/watch?v=a83ASGn_V_s)
+ Google IT Support professional 
+Google AI Essientals
  
 <h2>📺 Popular YouTube Videos</h2>
 
