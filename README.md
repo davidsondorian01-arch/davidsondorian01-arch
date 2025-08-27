@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>Active Directory Homelab (AlgoExpert)</b>
+- <b>[Active Directory Home lab](https://github.com/davidsondorian01-arch/It-Support-Active-Directory-Home-lab)</b>
 <h2>📺 Certifications</h2>
 -CompTIA A+//www.youtube.com/watch?v=a83ASGn_V_s)
  Google IT Support professional 
