@@ -1,10 +1,11 @@
 <h1>Hi, I'm Dorian! 
+ <br/><a <a href="https://www.linkedin.com/in/dorianintechdavidson/">IT Support Specialist</a>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>[Active Directory Home lab](https://github.com/davidsondorian01-arch/It-Support-Active-Directory-Home-lab)</b>
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/f134a01b-e24e-4b56-b793-450508181533/linked_in?t=syual0)
 - [Google IT Support Professional](file:///C:/Users/lenev/OneDrive/One%20Drive%20MS%20Office/OneDrive/Documents/Resume_PDF/Google%20IT%20Support%20Cert.pdf)
@@ -17,14 +18,4 @@
 
 [linkedin]: https://linkedin.com/in/dorianintechdavidson
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
